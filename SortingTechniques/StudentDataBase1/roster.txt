@@ -1,0 +1,19 @@
+3333,linear,francisco,senior
+1111,lin,frank,freshman
+8888,biden,joe,senior
+6543,trump,donald,junior
+7777,obama,michelle,freshman
+666,bush,george sr.,junior
+4444,obama,barack,senior
+5555,bush,george,junior
+222,linux,fran,freshman
+9999,musk,elon,sophomore
+777,gates,bill,senior
+1234,zuckerberg,mark,junior
+4321,bezos,jeff,freshman
+2468,cook,tim,senior
+1357,page,larry,junior
+9876,brin,sergey,sophomore
+5432,nadella,satya,senior
+8765,wojcicki,susan,sophomore
+369,dorsey,jack,junior
