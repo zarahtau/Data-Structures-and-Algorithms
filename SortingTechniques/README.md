@@ -20,3 +20,10 @@ Building on the foundation of Student Database 1, this version elevates the mana
 #### Key Features
 - **Linked List Integration**: Student records are now managed using linked lists, allowing for more efficient data manipulation and access. This eases the process of insertion, delection, and traversal of student data.
 - **Enhanced Sorting Capability**: Uses a Merge Sort algorithm tailored to organize student records by ID. This provides a more advanced and efficient way to manage information.
+
+### Student Database 3
+This version uses a pointer array for managing student data. Each element of the array points to a student object, allowing for direct access to individual record.
+
+#### Key Features
+- **Heap Building**: Constructs a heap from the existing student records. Insert node function adds a new student record while maintaing the heap property. This allows for dynamic expansion of the database.
+- **Heap Sort Integration**: The database gains enhanced sorting capabilities. Heap sort optimizes the arrangement of student databased based on ID.
