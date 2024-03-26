@@ -5,7 +5,7 @@ This repository is dedicated to providing implementations of various data struct
 ## Features
 * __Sorting Techniques__: Implementations of key sorting algorithms using a student database example. Sorting techniques include but are not limited to, merge sort, quick sort, and heap sort.
 * __Binary Trees__ (coming soon): Examples of binary search trees showcasing operations like insertion, deletion, and traversal
-* __Hash Maps__ (coming soon): Demonstration of hash map implementation and handling collisions
+* __Hashing__: Demonstration of collision management in hash functions using separate chaining and linear probing
 * __Graphs__ (coming soon): Graph representations and algorithms for traversing
 
 ## Getting Started
